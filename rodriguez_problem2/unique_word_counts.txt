@@ -1,0 +1,7 @@
+okay : shows up 3 times
+test : shows up 5 times
+this : shows up 2 times
+working : shows up 2 times
+its : shows up 1 times
+it : shows up 1 times
+done : shows up 3 times
